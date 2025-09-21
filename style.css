@@ -9,46 +9,7 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-body {
-  background-image: url('https://e0.pxfuel.com/wallpapers/505/487/desktop-wallpaper-batman-the-dark-knight-for-iphone-background-the-dark-knight-mobile.jpg
-'); 
-  background-size: cover;
-  background-position: center;
-  font-family: 'Poppins', sans-serif;
-  color: white;
-}
 
-.message-box {
-  position: absolute;
-  bottom: 50px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 20px;
-  border-radius: 10px;
-  width: 300px;
-  text-align: center;
-}
-
-.message-box textarea {
-  width: 100%;
-  height: 100px;
-  border: none;
-  padding: 10px;
-  resize: none;
-  font-size: 16px;
-  border-radius: 5px;
-}
-
-.message-box button {
-  margin-top: 10px;
-  padding: 10px 20px;
-  background-color: #00ffcc;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-weight: bold;
-}
 .container {
   text-align: center;
   padding: 20px;
@@ -140,5 +101,5 @@ body {
 .social-icons a:hover {
   color: #00ffcc;
   transform: scale(1.2);
-
 }
+
