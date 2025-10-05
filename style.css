@@ -103,3 +103,32 @@ body {
   transform: scale(1.2);
 }
 
+.kural-box {
+  background: #000000;
+  border-left: 6px solid #000000;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+.kural-text {
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Noto Serif Tamil', serif;
+}
+
+.kural-meaning {
+  font-style: italic;
+  font-size: 0.8em;
+  color: #555;
+}
+
+.kural-meta {
+  display: block;
+  margin-top: 10px;
+  color: #888;
+}
+
